@@ -55,8 +55,7 @@ def run_conversation():
         fuction_to_call = available_functions[function_name]
         function_args = json.loads(response_message["function_call"]["arguments"])
         function_response = fuction_to_call(
-            location=function_args.get("location"),
-            unit=function_args.get("unit"),
+            **function_args
         )
 
         # Step 4: 함수를 실행한 결과를 GPT에게 보내 답을 받아오기 위한 부분입니다. 
