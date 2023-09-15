@@ -160,3 +160,4 @@ cython_debug/
 #.idea/
 ffmpeg-6.0-full_build/
 mp3/
+videos/
