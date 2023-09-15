@@ -1,5 +1,5 @@
-Title;Artist;Released;mp3;image_file
-Uptown Funk;Mark Ronson ft. Bruno Mars;2014;./mp3/Uptown_Funk__Mark_Ronson_ft._Bruno_Mars.mp3;./dreamlike_diffusion/Uptown_Funk_Mark_Ronson_ft__Bruno_Mars.jpg
-Shape of You;Ed Sheeran;2017;./mp3/Shape_of_You__Ed_Sheeran.mp3;./dreamlike_diffusion/Shape_of_You_Ed_Sheeran.jpg
-Sorry;Justin Bieber;2015;./mp3/Sorry__Justin_Bieber.mp3;./dreamlike_diffusion/Sorry_Justin_Bieber.jpg
-Get Lucky;Daft Punk ft. Pharrell Williams;2013;./mp3/Get_Lucky__Daft_Punk_ft._Pharrell_Williams.mp3;./dreamlike_diffusion/Get_Lucky_Daft_Punk_ft__Pharrell_Williams.jpg
+Title;Artist;Released;mp3;image_file;info_image_file
+Uptown Funk;Mark Ronson ft. Bruno Mars;2014;./mp3/Uptown_Funk__Mark_Ronson_ft._Bruno_Mars.mp3;./dreamlike_diffusion/Uptown_Funk_Mark_Ronson_ft__Bruno_Mars.jpg;./dreamlike_diffusion/Uptown_Funk_Mark_Ronson_ft__Bruno_Mars_info.jpg
+Shape of You;Ed Sheeran;2017;./mp3/Shape_of_You__Ed_Sheeran.mp3;./dreamlike_diffusion/Shape_of_You_Ed_Sheeran.jpg;./dreamlike_diffusion/Shape_of_You_Ed_Sheeran_info.jpg
+Sorry;Justin Bieber;2015;./mp3/Sorry__Justin_Bieber.mp3;./dreamlike_diffusion/Sorry_Justin_Bieber.jpg;./dreamlike_diffusion/Sorry_Justin_Bieber_info.jpg
+Get Lucky;Daft Punk ft. Pharrell Williams;2013;./mp3/Get_Lucky__Daft_Punk_ft._Pharrell_Williams.mp3;./dreamlike_diffusion/Get_Lucky_Daft_Punk_ft__Pharrell_Williams.jpg;./dreamlike_diffusion/Get_Lucky_Daft_Punk_ft__Pharrell_Williams_info.jpg
