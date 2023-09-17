@@ -1,0 +1,4 @@
+Title;Artist;Released;mp3;image_file;info_image_file
+Hey Jude;The Beatles;1968;./mp3/Hey_Jude__The_Beatles.mp3;./dreamlike_diffusion/Hey_Jude_The_Beatles.jpg;./dreamlike_diffusion/Hey_Jude_The_Beatles_info.jpg
+Let It Be;The Beatles;1970;./mp3/Let_It_Be__The_Beatles.mp3;./dreamlike_diffusion/Let_It_Be_The_Beatles.jpg;./dreamlike_diffusion/Let_It_Be_The_Beatles_info.jpg
+Yesterday;The Beatles;1965;./mp3/Yesterday__The_Beatles.mp3;./dreamlike_diffusion/Yesterday_The_Beatles.jpg;./dreamlike_diffusion/Yesterday_The_Beatles_info.jpg
