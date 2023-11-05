@@ -161,3 +161,6 @@ cython_debug/
 
 api_keys.py
 deprecated/
+ffmpeg-6.0-full_build/
+*.mp3
+*.mp4
