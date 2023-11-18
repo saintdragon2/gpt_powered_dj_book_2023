@@ -47,4 +47,4 @@ print(completion.choices[0].message)
 
 
 
-![책](readme_imgs\i9791163035237.jpg)
+![책](.\readme_imgs\i9791163035237.jpg)
